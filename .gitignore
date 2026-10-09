@@ -1,0 +1,4 @@
+reporte_turno.csv
+__pycache__/
+.pytest_cache/
+.env/
