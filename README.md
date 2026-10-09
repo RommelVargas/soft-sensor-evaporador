@@ -36,7 +36,7 @@ python main.py
 ```
 
 Se necesita Python 3.10 o superior. Cada ejecución añade filas al CSV
-(modo *append*); bórralo para empezar de cero.
+(modo *append*).
 
 ## Pruebas
 
