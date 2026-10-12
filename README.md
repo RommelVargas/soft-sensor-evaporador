@@ -1,6 +1,6 @@
 # Soft sensor de evaporador
 
-Proyecto de aprendizaje aplicado para el monitoreo y la estimación de variables de una estación de evaporación de múltiple efecto en la industria azucarera.
+Proyecto de aprendizaje aplicado para el monitoreo y la estimación de variables de una corrida de evaporación de múltiple efecto en la industria azucarera.
 
 > Aviso: todos los datos de este repositorio son sintéticos y no corresponden a una planta real.
 
@@ -75,7 +75,7 @@ Esto permite mantener un histórico de operación y facilitar análisis posterio
 ## Estado del proyecto
 
 - [x] Fase I: fundamentos (balance de evaporación, alarmas, registro CSV/SQLite)
-- [ ] Fase II: SQL, Pandas y series temporales
+- [x] Fase II: SQL, Pandas y series temporales
 - [ ] Fase III: modelo físico y generación de datos sintéticos
 - [ ] Fase IV: modelo híbrido y validación
 
